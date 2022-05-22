@@ -4,8 +4,16 @@ C is a general-purpose computer programming language. It was created in the 1970
 
 ## Table of contents
 
+- [Learn C](#learn-c)
+  - [Basic](#basic)
 - [Write a program (WAP)](#write-a-program-wap)
   - [WAP to print Hello World](#wap-to-print-hello-world)
+
+### Learn C
+
+#### Basic
+
+[C Tutorial - W3Schools](https://www.w3schools.com/c/index.php)
 
 ### Write a program (WAP)
 
