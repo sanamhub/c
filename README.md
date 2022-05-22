@@ -1,6 +1,6 @@
 # C
 
-C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential.
+C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. [Wikipedia](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 
 ## Table of contents
 
