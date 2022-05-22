@@ -19,5 +19,7 @@ int main()
 ```
 
 <details><summary>See output</summary>
+
 ![1](ss/1.png)
+
 </details>
