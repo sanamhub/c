@@ -4,9 +4,12 @@ C Programming Reference
 
 ## Table of contents
 
+- [Write a program (WAP)](#write-a-program-wap)
+  - [WAP to print hello world](#wap-to-print-hello-world)
+
 ### Write a program (WAP)
 
-**WAP to print hello world**
+#### WAP to print hello world
 
 ```c
 #include <stdio.h>
