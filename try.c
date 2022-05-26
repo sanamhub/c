@@ -1,20 +1,20 @@
 #include <stdio.h>
-#include <math.h>
 
-// user defined function
-double find_square_root(double n)
-{
-    return sqrt(n);
-}
-
-// main function
 int main()
 {
-    double number, sqrt;
-    printf("Enter a number\n");
-    scanf("%lf", &number);
+    int num1, num2;
+    int *ptr1, *ptr2;
+    int mul;
 
-    sqrt = find_square_root(number);
-    printf("The square root is %lf", sqrt);
+    printf("Please enter value for num1: ");
+    scanf("%d", &num1);
+    printf("Please enter value for num2: ");
+    scanf("%d", &num2);
+
+    ptr1 = &num1;
+    ptr2 = &num2;
+    mul = *ptr1 * *ptr2;
+
+    printf("Product of the two numbers is: %d", mul);
     return 0;
 }
